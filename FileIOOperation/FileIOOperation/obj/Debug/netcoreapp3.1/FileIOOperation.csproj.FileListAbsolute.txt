@@ -1,0 +1,14 @@
+C:\Users\om\source\repos\FileIOOperation\FileIOOperation\bin\Debug\netcoreapp3.1\FileIOOperation.exe
+C:\Users\om\source\repos\FileIOOperation\FileIOOperation\bin\Debug\netcoreapp3.1\FileIOOperation.deps.json
+C:\Users\om\source\repos\FileIOOperation\FileIOOperation\bin\Debug\netcoreapp3.1\FileIOOperation.runtimeconfig.json
+C:\Users\om\source\repos\FileIOOperation\FileIOOperation\bin\Debug\netcoreapp3.1\FileIOOperation.runtimeconfig.dev.json
+C:\Users\om\source\repos\FileIOOperation\FileIOOperation\bin\Debug\netcoreapp3.1\FileIOOperation.dll
+C:\Users\om\source\repos\FileIOOperation\FileIOOperation\bin\Debug\netcoreapp3.1\FileIOOperation.pdb
+C:\Users\om\source\repos\FileIOOperation\FileIOOperation\obj\Debug\netcoreapp3.1\FileIOOperation.csproj.AssemblyReference.cache
+C:\Users\om\source\repos\FileIOOperation\FileIOOperation\obj\Debug\netcoreapp3.1\FileIOOperation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\om\source\repos\FileIOOperation\FileIOOperation\obj\Debug\netcoreapp3.1\FileIOOperation.AssemblyInfoInputs.cache
+C:\Users\om\source\repos\FileIOOperation\FileIOOperation\obj\Debug\netcoreapp3.1\FileIOOperation.AssemblyInfo.cs
+C:\Users\om\source\repos\FileIOOperation\FileIOOperation\obj\Debug\netcoreapp3.1\FileIOOperation.csproj.CoreCompileInputs.cache
+C:\Users\om\source\repos\FileIOOperation\FileIOOperation\obj\Debug\netcoreapp3.1\FileIOOperation.dll
+C:\Users\om\source\repos\FileIOOperation\FileIOOperation\obj\Debug\netcoreapp3.1\FileIOOperation.pdb
+C:\Users\om\source\repos\FileIOOperation\FileIOOperation\obj\Debug\netcoreapp3.1\FileIOOperation.genruntimeconfig.cache

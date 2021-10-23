@@ -1,0 +1,2 @@
+﻿Hello World!!
+How are you?Hello added text using STREAM writer
